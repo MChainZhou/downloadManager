@@ -1,0 +1,2 @@
+# downloadManager
+用NSURLConnection实现的下载管理器
